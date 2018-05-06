@@ -14,4 +14,3 @@ Install packages:  ggplot2, ggthemes, scales, grid, gridExtra, corrplot, dplyr, 
 Run all the libraries after installing above mentioned packages.
 Run all the chuncks.
 After running all the chuncks from rmd file, it will create .html version which can be seen in browser in the form of R notebook. 
-We have aatched .html file in the repository
